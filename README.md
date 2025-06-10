@@ -30,5 +30,5 @@
 ### 
 <p align="center">
   <!-- Replace this with your actual GIF URL -->
-  <img src="https://tenor.com/view/anime-noted-makoto-niijima-makoto-persona5-gif-27397086" width="200"/>
+  <img src="[https://tenor.com/view/anime-noted-makoto-niijima-makoto-persona5-gif-27397086](https://media.tenor.com/cP6oZSABZD8AAAAj/anime-noted.gif)" width="200"/>
 </p>
