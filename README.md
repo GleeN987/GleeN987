@@ -1,10 +1,10 @@
-<h1 align="center">.NET Developer</h1>
+<h2 align="center">.NET Developer</h1>
 
 
 ---
 
 ### Languages and Tools
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -29,6 +29,5 @@
 
 ### 
 <p align="center">
-  <!-- Replace this with your actual GIF URL -->
-  <img src="[https://tenor.com/view/anime-noted-makoto-niijima-makoto-persona5-gif-27397086](https://media.tenor.com/cP6oZSABZD8AAAAj/anime-noted.gif)" width="200"/>
+  <img src="https://media.tenor.com/cP6oZSABZD8AAAAj/anime-noted.gif" width="200" alt="noted gif"/>
 </p>
