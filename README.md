@@ -1,19 +1,11 @@
 <h2 align="center">💻 Backend Developer</h2>
+
 <p align="center">
-  Experienced in building scalable, RESTful web services and automation tools using .NET and Go. Skilled in clean architecture, database design, and API integrations.
+  Mainly interested in backend systems and making things working together efficiently and cleanly. Occasionally participating in competitive programming contests and trying my best in game development.
 </p>
 
-<h3>🚀 Technical Skills:</h3>
-<ul>
-  <li>ASP.NET Core MVC & Web APIs</li>
-  <li>Golang (REST APIs, bots, concurrency)</li>
-  <li>Entity Framework Core</li>
-  <li>Unit testing with xUnit</li>
-  <li>Discord Bot & third-party API integration</li>
-</ul>
-
 <h3>🛠️ Tools & Languages:</h3>
-<p align="left">
+<p align="center">
   <a href="https://golang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" title="Go" />
   </a>
@@ -32,22 +24,10 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" title="Postman" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="HTML5" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="CSS3" />
-  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++" />
   </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" title="Unreal Engine" />
   </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/6c07d5b735e579fa93c0558494e6434ac1b0022e77f1ea6964d2a51a32555426/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6350366f5a5341425a4438414141416a2f616e696d652d6e6f7465642e676966" width="200"/>
 </p>
